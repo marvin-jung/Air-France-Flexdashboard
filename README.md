@@ -1,4 +1,4 @@
-# Air France Business Case
+# Air France Flexdashboard
 
 [ Hult SF MsBA2 - Team 3 ]
 - Jisung Jung
